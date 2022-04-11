@@ -1,15 +1,17 @@
+/*
+ * File: 1-last_digit.c
+ * Auth: Dominic R
+ */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
 /**
-* more headers goes there
-*/
-
-/* betty style doc for function main goes there */
-
-/**
- * function main
+ * main - Prints the last digit of a randomly generated number
+ *        and whether it is greater than 5, less than 6, or 0.
+ *
+ * Return: return 0.
  */
 int main(void)
 {
