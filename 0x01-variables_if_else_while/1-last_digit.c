@@ -6,8 +6,8 @@
 
 /* betty style doc for function main goes there */
 
-/** 
- * functionn main 
+/**
+ * functionn main
  */
 int main(void)
 {
