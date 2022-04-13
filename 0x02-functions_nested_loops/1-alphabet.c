@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+#include "main.c"
 
 /**
  * print_alphabet - prints the alphabet in lowercase, followed by a new line.
