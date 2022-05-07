@@ -1,15 +1,13 @@
 0x0B. C - malloc, free
 ======================
 
--   By Julien Barbier
-
 
 Concepts
 --------
 
 *For this project, students are expected to look at this concept:*
 
--   [Automatic and dynamic allocation, malloc and free](https://alx-intranet.hbtn.io/concepts/62)
+-   [Automatic and dynamic allocation, malloc and free]
 
 Resources
 ---------
