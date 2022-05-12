@@ -320,5 +320,3 @@ julien@ubuntu:~/0x0d. structures, typedef$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0E-structures_typedef`
 -   File: `5-free_dog.c`
-
-Copyright © 2021 Holberton Inc, All rights reserved.
