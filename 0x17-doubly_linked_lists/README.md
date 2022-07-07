@@ -132,7 +132,7 @@ julien@ubuntu:~/0x17. Doubly linked lists$ ./a
 9
 8
 -> 2 elements
-julien@ubuntu:~/0x17. Doubly linked lists$
+julien@ubuntu:~/0x17. Doublyyy linked lists$
 
 ```
 
